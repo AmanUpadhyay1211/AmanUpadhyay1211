@@ -36,13 +36,13 @@ I'm a Full Stack Developer with a passion for creating efficient and scalable we
     <tr>
       <td width="50%">
         <h3>Full Stack Blog Web App</h3>
-        <img src="https://i.imgur.com/Q0GDjQF.jpg" alt="Project 1 Image" width="100%">
+        <a href="https://qulify-yourdigitalbook.netlify.app/"><img src="https://i.imgur.com/Q0GDjQF.jpg" alt="Project 1 Image" width="100%"></a>
         <p>Developed a full-featured blog application with React and Appwrite. Applied industry-standard coding practices: modular architecture, state management with Redux, and comprehensive error handling. Implemented secure authentication using Appwrite. Utilized React, Redux, Tailwind CSS, TinyMCE Editor, React Hook Form, and HTML React Parser.</p>
         <p><strong>Tech Stack:</strong> React, Appwrite, Redux, Tailwind, TinyMCE, React-hook-form</p>
       </td>
       <td width="50%">
         <h3>Web Music Player</h3>
-        <img src="https://imgur.com/vB0Zu99.jpg" alt="Project 2 Image" width="100%">
+        <a href="https://harmonyhub.freewebhostmost.com/"><img src="https://imgur.com/vB0Zu99.jpg" alt="Project 2 Image" width="100%"></a>
         <p>Developed and launched Harmony Hub, a music web player inspired by Spotify, with added innovations and enhanced responsiveness. Implemented key features: album display, playback control, and efficient library management. Designed a visually appealing, user-friendly interface to maximize user satisfaction and engagement.</p>
         <p><strong>Tech Stack:</strong> Advanced JavaScript, HTML, CSS, Asynchronous Programming</p>
       </td>
@@ -50,13 +50,13 @@ I'm a Full Stack Developer with a passion for creating efficient and scalable we
     <tr>
       <td width="50%">
         <h3>myTask: Todo App</h3>
-        <img src="https://imgur.com/FOGtKXC.jpg" alt="Project 3 Image" width="100%">
+        <a href="https://my-task-manage-your-todo.vercel.app/"><img src="https://imgur.com/FOGtKXC.jpg" alt="Project 3 Image" width="100%"></a>
         <p>Developed a basic to-do app with React for efficient task management. Implemented local storage to ensure data persistence across sessions. Added features to display comprehensive details, including creation date and completion status.</p>
         <p><strong>Tech Stack:</strong> React, Tailwind, Redux, Local Storage</p>
       </td>
       <td width="50%">
         <h3>Currency Converter</h3>
-        <img src="https://imgur.com/AAs1YDN.jpg" alt="Project 4 Image" width="100%">
+        <a href="https://currency-converter-theta-liart.vercel.app/"><img src="https://imgur.com/AAs1YDN.jpg" alt="Project 4 Image" width="100%"></a>
         <p>Developed a dynamic currency converter app with React. Successfully integrated APIs for real-time data. Demonstrated proficiency in React concepts such as props and components. Created a visually appealing and user-friendly interface.</p>
         <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
       </td>
