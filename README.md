@@ -35,30 +35,30 @@ I'm a Full Stack Developer with a passion for creating efficient and scalable we
   <table>
     <tr>
       <td width="50%">
+        <h3>Next.js Property Rental App</h3>
+        <a href="https://totality-frontend-challenge-gold.vercel.app/"><img src="https://res.cloudinary.com/amanupadhyay1211/image/upload/v1723870254/Project%20Rental%20Platform/hh4kj90bsywfdrbv9mt4.png" alt="Project 1 Image" width="100%"></a>
+        <p>Developed a comprehensive property rental platform using Next.js and Appwrite. Implemented robust user authentication with Auth.js for OAuth and custom email-password logic. Utilized Redux for efficient state management, minimizing database calls. Integrated secure payment processing with Razorpay and designed a dynamic, responsive UI with Tailwind CSS and Framer Motion.</p>
+        <p><strong>Tech Stack:</strong>  Next.js, Appwrite, Auth.js, Redux, Tailwind CSS, Framer Motion, Razorpay, Nodemailer</p>
+      </td>
+      <td width="50%">
         <h3>Full Stack Blog Web App</h3>
         <a href="https://qulify-yourdigitalbook.netlify.app/"><img src="https://i.imgur.com/Q0GDjQF.jpg" alt="Project 1 Image" width="100%"></a>
         <p>Developed a full-featured blog application with React and Appwrite. Applied industry-standard coding practices: modular architecture, state management with Redux, and comprehensive error handling. Implemented secure authentication using Appwrite. Utilized React, Redux, Tailwind CSS, TinyMCE Editor, React Hook Form, and HTML React Parser.</p>
         <p><strong>Tech Stack:</strong> React, Appwrite, Redux, Tailwind, TinyMCE, React-hook-form</p>
       </td>
-      <td width="50%">
-        <h3>Web Music Player</h3>
-        <a href="https://harmonyhub.freewebhostmost.com/"><img src="https://imgur.com/vB0Zu99.jpg" alt="Project 2 Image" width="100%"></a>
-        <p>Developed and launched Harmony Hub, a music web player inspired by Spotify, with added innovations and enhanced responsiveness. Implemented key features: album display, playback control, and efficient library management. Designed a visually appealing, user-friendly interface to maximize user satisfaction and engagement.</p>
-        <p><strong>Tech Stack:</strong> Advanced JavaScript, HTML, CSS, Asynchronous Programming</p>
-      </td>
     </tr>
     <tr>
+          <td width="50%">
+        <h3>Web Music Player</h3>
+        <a href="https://harmonyhub.freewebhostmost.com/"><img src="https://imgur.com/vB0Zu99.jpg" alt="Project 2 Image" width="100%"></a>
+        <p> A music web player inspired by Spotify, with added innovations and enhanced responsiveness. Implemented key features: album display, playback control, and efficient library management. Designed a visually appealing, user-friendly interface to maximize user satisfaction and engagement.</p>
+        <p><strong>Tech Stack:</strong> Advanced JavaScript, HTML, CSS, Asynchronous Programming</p>
+      </td>
       <td width="50%">
         <h3>myTask: Todo App</h3>
         <a href="https://my-task-manage-your-todo.vercel.app/"><img src="https://imgur.com/FOGtKXC.jpg" alt="Project 3 Image" width="100%"></a>
         <p>Developed a basic to-do app with React for efficient task management. Implemented local storage to ensure data persistence across sessions. Added features to display comprehensive details, including creation date and completion status.</p>
         <p><strong>Tech Stack:</strong> React, Tailwind, Redux, Local Storage</p>
-      </td>
-      <td width="50%">
-        <h3>Currency Converter</h3>
-        <a href="https://currency-converter-theta-liart.vercel.app/"><img src="https://imgur.com/AAs1YDN.jpg" alt="Project 4 Image" width="100%"></a>
-        <p>Developed a dynamic currency converter app with React. Successfully integrated APIs for real-time data. Demonstrated proficiency in React concepts such as props and components. Created a visually appealing and user-friendly interface.</p>
-        <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
       </td>
     </tr>
   </table>
@@ -81,8 +81,3 @@ I'm a Full Stack Developer with a passion for creating efficient and scalable we
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanUpadhyay1211&layout=compact" alt="Top Languages"/>
 </div>
-
-<!---
-AmanUpadhyay1211/AmanUpadhyay1211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
